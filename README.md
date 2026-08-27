@@ -7,6 +7,11 @@ O **Enigma do Pirata** é um jogo de desafios lógicos em que o jogador deve res
 O jogo apresenta diferentes fases, nas quais o jogador precisa interpretar proposições, símbolos lógicos e regras de inferência para conseguir avançar.
 
 --- 
+## 🌐 Acesse o jogo
+
+[**Jogar Enigma do Pirata**](https://yasmincomputing.github.io/JogoEnigmaDoPirata/)
+
+--- 
 ## 🎮 Funcionalidades
 
 * Sistema de fases e desafios de lógica;
@@ -51,7 +56,3 @@ Entre os conteúdos utilizados no jogo estão:
 
 O projeto foi desenvolvido na disciplina de **Lógica para Computação** com o objetivo de aplicar, por meio de uma aplicação prática, conceitos de lógica proposicional, estruturas condicionais, tomada de decisões e resolução de problemas.
 Além da aplicação dos conceitos teóricos, o desenvolvimento possibilitou a prática de **HTML, CSS e JavaScript**, incluindo manipulação do DOM, controle de estados do jogo, eventos e implementação de regras para os desafios.
-
-## 🌐 Acesse o jogo
-
-[**Jogar Enigma do Pirata**](https://yasmincomputing.github.io/JogoEnigmaDoPirata/)
